@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Various view specific methods for application I use.}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
-  spec.homepage      = " ."
+  spec.homepage      = "https://github.com/KINGJP500/tech95design_view_tool."
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
